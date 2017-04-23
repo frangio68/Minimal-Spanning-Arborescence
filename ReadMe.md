@@ -4,15 +4,23 @@ Minimal Spanning Arborescence problem on complete graphs.
 
 This distribution comes with the following files:
 
-doc/refman.pdf: Short manual for MSArbor
-doxygen/:   input files for producing the manual
-MSArbor.h:  Header file for MSArbor
-MSArbor.C:  Implementation of MSArbor
-Main.C:     Sample Main
-makefile:   makefile
-msa15:      File containing an example of MSA instance (with 15 nodes)
-Readme.md:  This file
-License.md: License information
+- doc/refman.pdf: Short manual for MSArbor
+
+- doxygen/:   input files for producing the manual
+
+- MSArbor.h:  Header file for MSArbor
+
+- MSArbor.C:  Implementation of MSArbor
+
+- Main.C:     Sample Main
+
+- makefile:   makefile
+
+- msa15:      File containing an example of MSA instance (with 15 nodes)
+
+- Readme.md:  This file
+
+- License.md: License information
 
 The code is pretty much pure C++ with no bells and whistles, so it should
 compile straight away on most systems. It has been primarily tested on g++.
