@@ -4,7 +4,9 @@ Minimal Spanning Arborescence problem on complete graphs.
 
 This distribution comes with the following files:
 
-- doc/refman.pdf: Short manual for MSArbor
+- docs/:      Doxygen documentation of MSArbor, also available at
+
+   https://frangio68.github.io/Minimal-Spanning-Arborescence/. 
 
 - doxygen/:   input files for producing the manual
 
