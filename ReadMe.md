@@ -57,9 +57,4 @@ Testing it on your system involves the following steps:
 
 This program comes with NO WARRANTY at all, as described in the license file.
 Nor we can guarantee you any support in case you find bugs or other problems.
-That does not mean that we won't try, if we can, so for every
-comment/request/bug report please contact
-
-     	    frangio@di.unipi.it.
-
-Good luck.
+That does not mean that we won't try, if we can.
