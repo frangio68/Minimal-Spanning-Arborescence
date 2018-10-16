@@ -4,11 +4,11 @@ Minimal Spanning Arborescence problem on complete graphs.
 
 This distribution comes with the following files:
 
+- doxygen/:   input files for producing the manual
+
 - docs/:      Doxygen documentation of MSArbor, also available at
 
    https://frangio68.github.io/Minimal-Spanning-Arborescence/. 
-
-- doxygen/:   input files for producing the manual
 
 - MSArbor.h:  Header file for MSArbor
 
@@ -58,3 +58,5 @@ Testing it on your system involves the following steps:
 This program comes with NO WARRANTY at all, as described in the license file.
 Nor we can guarantee you any support in case you find bugs or other problems.
 That does not mean that we won't try, if we can.
+
+Good luck.
